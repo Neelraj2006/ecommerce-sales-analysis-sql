@@ -1,4 +1,3 @@
-# ecommerce-sales-analysis-sql
 # E-commerce Sales Analysis Using SQL
 
 ## Project Overview
